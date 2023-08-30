@@ -1,0 +1,4 @@
+# Pretrained models #
+#####################
+*.pt
+*.pth

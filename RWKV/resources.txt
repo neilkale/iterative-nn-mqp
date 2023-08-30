@@ -1,0 +1,4 @@
+RWKV (Paper Explained) - https://www.youtube.com/watch?v=x8pW19wKfXQ&t=1s
+
+RWKV from scratch Pytorch - https://www.youtube.com/watch?v=0Ag83EhYD7k
+
